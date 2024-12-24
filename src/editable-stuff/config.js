@@ -128,7 +128,7 @@ const getInTouch = {
   message:
     "I'm currently looking for full-time Software Engineering intership/full time opportunities! If you know of any positions available, if you want to learn more about me, or if you care to say hi reach out to me at",
   email: "raymaredia28@gmail.com",
-};
+};   
 
 const experiences = {
   show: false,
