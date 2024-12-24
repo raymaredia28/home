@@ -43,18 +43,18 @@ const Home = React.forwardRef((props, ref) => {
         />
       )}
       {
-        experiences.show && (
-          <Experience experiences={experiences}/>
-        )
+        // experiences.show && (
+        //   <Experience experiences={experiences}/>
+        // )
       }
-      {repos.show && (
+      {/* {repos.show && (
         <Project
           heading={repos.heading}
           username={repos.gitHubUsername}
           length={repos.reposLength}
           specfic={repos.specificRepos}
         />
-      )}
+      )} */}
       {leadership.show && (
         <Leadership
           heading={leadership.heading}
@@ -63,13 +63,13 @@ const Home = React.forwardRef((props, ref) => {
           imageSize={leadership.imageSize}
         />
       )}
-      {skills.show && (
+      {/* {skills.show && (
         <Skills
           heading={skills.heading}
           hardSkills={skills.hardSkills}
           softSkills={skills.softSkills}
         />
-      )}
+      )} */}
       
     </>
   );
