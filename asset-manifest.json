@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/home/static/css/main.a5a525c0.css",
-    "main.js": "/home/static/js/main.30752ea4.js",
+    "main.js": "/home/static/js/main.2a8b2047.js",
     "static/js/787.6971d1b3.chunk.js": "/home/static/js/787.6971d1b3.chunk.js",
+    "static/media/RayaanMaredia.png": "/home/static/media/RayaanMaredia.1bad065ca2b276bd2718.png",
     "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
-    "static/media/RayaanMaredia.webp": "/home/static/media/RayaanMaredia.d0bf060d967638d3ab4a.webp",
     "index.html": "/home/index.html",
     "main.a5a525c0.css.map": "/home/static/css/main.a5a525c0.css.map",
-    "main.30752ea4.js.map": "/home/static/js/main.30752ea4.js.map",
+    "main.2a8b2047.js.map": "/home/static/js/main.2a8b2047.js.map",
     "787.6971d1b3.chunk.js.map": "/home/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5a525c0.css",
-    "static/js/main.30752ea4.js"
+    "static/js/main.2a8b2047.js"
   ]
 }
